@@ -1,0 +1,54 @@
+Study Number,Severity of illness - worst score during admission,Height,Weight,systoli,diastoli,Pulse,O2 Saturation
+1,Mild [limited NC oxygen support],,,132,73,95,86
+3,Mild (O2 sat > 93%) - No need for oxygen support,165,1000,145,87,68,93
+4,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),175,75,114,69,77,94
+5,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),165,75,109,68,80,93
+7,Severe illness,160,70,139,74,97,88
+12,Severe illness,173,1040,146,65,83,91
+13,Severe illness,165,80,136,83,102,78
+14,Mild (O2 sat > 93%) - No need for oxygen support,170,85,139,86,84,90
+15,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),150,70,134,80,64,94
+16,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),174,75,120,72,93,88
+17,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),180,100,137,93,86,88
+18,Mild (O2 sat > 93%) - No need for oxygen support,155,150,101,69,96,96
+19,Severe illness,170,1181,203,65,84,91
+23,Mild [limited NC oxygen support],170,90,127,79,105,90
+24,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),172,86,99,67,95,86
+25,Mild [limited NC oxygen support],180,80,151,89,79,88
+26,Severe illness,,,129,75,112,86
+27,Mild [limited NC oxygen support],155,95,123,69,82,95
+30,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),165,60,102,63,104,84
+35,Critical - MV  /  Multi organ failure,160,55,118,67,82,81
+37,Critical - MV  /  Multi organ failure,145,55,145,85,80,97
+42,Severe illness,160,73,117,76,83,90
+43,Severe illness,170,80,124,81,84,91
+46,Mild [limited NC oxygen support],180,74,145,89,84,89
+47,Mild (O2 sat > 93%) - No need for oxygen support,170,84,123,83,81,100
+49,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),163,82,128,75,72,91
+53,Mild (O2 sat > 93%) - No need for oxygen support,168,65,107,68,77,98
+54,Mild (O2 sat > 93%) - No need for oxygen support,162,68,100,68,56,95
+55,Critical - MV  /  Multi organ failure,170,100,116,58,108,46
+58,Mild (O2 sat > 93%) - No need for oxygen support,183,90,103,72,186,98
+60,Severe illness,160,70,114,60,67,95
+63,Mild [limited NC oxygen support],164,78,165,98,103,91
+68,Severe illness,170,95,141,87,103,98
+73,Severe illness,175,75,157,84,82,94
+84,Mild (O2 sat > 93%) - No need for oxygen support,,,137,88,104,91
+95,Mild (O2 sat > 93%) - No need for oxygen support,164,65,109,77,75,94
+98,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),160,95,177,77,58,94
+99,Mild (O2 sat > 93%) - No need for oxygen support,164,58,112,75,91,95
+100,Mild [limited NC oxygen support],170,81,119,74,60,97
+101,Mild (O2 sat > 93%) - No need for oxygen support,165,95,159,80,73,90
+102,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),162,65,148,92,92,88
+103,Severe illness,170,93,129,79,70,95
+104,Severe illness,160,90,118,68,83,86
+105,Moderate - Severe (Nasal cannula  /  HFNC  /  NIV),175,78,105,60,76,94
+106,Mild,170,90,121,68,88,91
+107,Mild [limited NC oxygen support],160,70,137,72,100,92
+108,Severe illness,165,90,102,70,86,96
+109,Severe illness,165,60,145,71,89,90
+110,Mild,,,97,62,108,93
+111,Mild [limited NC oxygen support],162,74,116,70,78,94
+112,Mild,178,62,104,68,71,93
+113,Moderate,172,100,137,76,88,85
+114,Mild [limited NC oxygen support],170,80,117,79,109,96
